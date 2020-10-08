@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">MascotasApp</string>
+
+    <string name="nombre_mascota" translatable="false">Mota</string>
+    <string name="mnuFavoritos" translatable="false">Favoritos</string>
+    <string name="cantidad_like" translatable="false">5</string>
+    <string name="nombreparametro" translatable="false">listaFavoritos</string>
+    <string name="action_menu" translatable="false">Favoritos</string>
+    <string name="fab" translatable="false">Agregar foto</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+        <dimen name="fab_margin">16dp</dimen>
+        <dimen name="activity_horizontal_margin">16dp</dimen>
+        <dimen name="activity_vertical_margin">16dp</dimen>
+        <dimen name="top">20dp</dimen>
+        <dimen name="left">10dp</dimen>
+        <dimen name="corner_radius_cardview">4dp</dimen>
+        <dimen name="size_textos_cardview">20sp</dimen>
+        <dimen name="elevacion_actionbar">4dp</dimen>
+        <dimen name="size_height_img">250dp</dimen>
+        <dimen name="margin_top_texto_cardview">10dp</dimen>
+        <dimen name="weightcardviewrelleno">10</dimen>
+        <dimen name="size_icono">48dp</dimen>
+</resources>
